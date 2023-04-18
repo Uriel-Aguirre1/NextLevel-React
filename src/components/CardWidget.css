@@ -1,0 +1,13 @@
+.cajaCarrito a{
+ text-decoration: none;
+}
+
+.carritoContador{
+ color: white;
+}
+
+.cajaCarrito{
+    background-color: rgb(138, 157, 209);
+    margin-top: 3%;
+    margin-right: 1%;
+}
