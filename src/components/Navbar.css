@@ -53,5 +53,16 @@ header ul li a:active{
 
 .Name{
     padding-top: 1%;
+    color: white;
+}
+
+a {
+	color: white;
+	padding: 0 1rem;
+	text-decoration: none;
+}
+
+a.active {
+	color: black;
 }
 

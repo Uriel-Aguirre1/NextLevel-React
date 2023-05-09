@@ -2,3 +2,73 @@
     text-align: center;
     color: white;
 }
+
+.itemContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.productos{
+    color: white;
+}
+
+.itemCaja{
+    width: 17rem;
+    height: 20rem;
+    margin: 20px;
+    padding: 100px 60px;
+}
+
+.itemCaja h3{
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+
+.itemCaja p{
+    text-align: center;
+    color: white;
+}
+
+.buttomCaja button{
+    align-content: center;
+    color: blue;
+    
+}
+
+.buttomCaja button {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: 2px solid #2c0b8e;
+    background: #2c0b8e;
+    
+  }
+  .buttomCaja button:hover {
+    background: #fff;
+    color: #2c0b8e
+  }
+  .counterP{
+margin-left: 8%;
+}
+
+.cajaPadreFotoEinfo{
+    display: flex;
+    justify-content: space-around;
+}
+.cajaFoto img{
+    width: 100%;
+    padding: 5%;
+}
+.cajaInfo{
+    padding: 3%;
+}

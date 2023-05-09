@@ -1,0 +1,129 @@
+[{
+    "id": "1",
+    "title": "EA SPORTS™ UFC® 4",
+    "description": "En EA SPORTS UFC 4, el luchador en el que te conviertes depende de tu estilo de lucha, tus logros y tu personalidad. Desarrolla a tu personaje y personalízalo mediante un sistema de progreso unificado en todos los modos.",
+    "price": "$44.53",
+    "pictureUrl": "https://media.vandal.net/m/87660/ufc-4-20208181122583_11.jpg",
+    "category": "Deportes",
+    "stock": 25
+  }, {
+    "id": "2",
+    "title": "EA SPORTS™ NHL® 23.",
+    "description": "Crea un plantel con el mayor talento imaginable en  EA SPORTS™ NHL® 23. Con la introducción de equipos mixtos femeniles y masculinos, Hockey Ultimate Team te permite construir una alineación con los mejores jugadores y jugadoras del mundo. ",
+    "price": "$34.79",
+    "pictureUrl": "https://media.vandal.net/t200/125171/nhl-23-2022101210161264_2.jpg",
+    "category": "Deportes",
+    "stock": 25
+  }, {
+    "id": "3",
+    "title": "EA SPORTS™ FIFA 23",
+    "description": "Vive la gloria y el drama de la FIFA World Cup™ masculina y femenil en EA SPORTS™ FIFA 23. Uno de los torneos más grandes del deporte llega a la querida franquicia de futbol, y por primera vez, puedes jugar con equipos de clubes femeniles.",
+    "price": "$25.23",
+    "pictureUrl": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/07/18/62d5b0a367339.jpeg",
+    "category": "Deportes",
+    "stock": 250
+  }, {
+    "id": "4",
+    "title": "NBA 2K23.",
+    "description": "Compite con tus equipos y estrellas favoritos de la NBA y la WNBA y experimenta lo máximo del juego realista. Con presentación visual de primer nivel, IA de jugador mejorada, planteles actualizados y equipos históricos mejorados, el juego nunca se sintió más real y completo que en NBA 2K23. Siente la energía del público, la intensidad de la competencia y el entretenimiento sin fin de uno de los productos deportivos más inmersivos de los videojuegos de hoy.",
+    "price": "$48.68",
+    "pictureUrl": "https://media.vandal.net/m/122141/nba-2k23-202283015131648_1.jpg",
+    "category": "Deportes",
+    "stock": 25
+  }, {
+    "id": "5",
+    "title": "Grand Theft Auto V",
+    "description": "La quinta parte de Grand Theft Auto para PC vuelve a la costa oeste americana, ambientándose en la ciudad de Los Santos (Los Ángeles) y sus alrededores, con una historia ambientada en la actualidad, especialmente en las consecuencias de la crisis económica. Está protagonizada por Michael, Franklin y Trevor, tres criminales con diferentes habilidades, pudiendo cambiar de personaje en todo momento y vivir cada una de sus vidas, así como aprovechar sus habilidades en las misiones.",
+    "price": "$136.23",
+    "pictureUrl": "https://media.vandal.net/t200/15192/grand-theft-auto-v-2015413122229_1.jpg",
+    "category": "Acción",
+    "stock": 25
+  }, {
+    "id": "6",
+    "title": "Battlefield 1",
+    "description": "En su nueva entrega de la saga emblemática saga de acción en primera persona, que en esta ocasión estará ambientado en la Primera Guerra Mundial. El título, gracias al motor gráfico Frostbite, ofrecerá una perspectiva realista del conflicto que asoló el mundo a comienzos del siglo pasado, invitándonos a combatir en algunos escenarios de Francia o el norte de África. Una vez más, Battlefield 1 potenciará el uso de vehículos, como carros blindados, aviones y dirigibles, diversos modos de juego, un gran componente online gracias a las batallas masivas de hasta 64 jugadores y un novedoso sistema de tiempo y climatología que dinamizará las partidas en todo momento.",
+    "price": "$129.18",
+    "pictureUrl": "https://i.blogs.es/juegos/12642/battlefield_5/fotos/maestras/battlefield_5-3443772.jpg",
+    "category": "Acción",
+    "stock": 25
+  }, {
+    "id": "7",
+    "title": "Far Cry 4",
+    "description": "Far Cry 4 nos lleva esta vez al Himalaya, a la región de Kyrat, para enfrentarnos a una especie de tirano que se ha proclamado rey de la zona y se comporta de manera brutal con los habitantes. Encarnaremos a Ajay Ghale, que tendrá que viajar a la región de Kyrat para cumplir el último deseo de su madre, viéndose envuelto en la guerra civil que se está librando.",
+    "price": "$82.44",
+    "pictureUrl": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/855/public/media/image/2016/08/caratula-far-cry-4.jpg?itok=CChkrNtO",
+    "category": "Acción",
+    "stock": 25
+  }, {
+    "id": "8",
+    "title": "Uncharted: The Collection",
+    "description": "La trilogía original de Uncharted para PlayStation 3 recibe una actualización para la consola de Sony, PlayStation 4. En Uncharted: The Nathan Drake Collection disponemos de los tres juegos de la saga renovados y mejorados a nivel gráfico, en un mismo disco. Las aventuras de Nathan Drake cuentan ahora con una mayor resolución y tasa de imágenes por segundo, así como un buen número de nuevos trofeos y logros. Además, esta remasterización en alta definición, hace acopio de un modo foto que permitirá captar nuestros momentos preferidos.",
+    "price": "$51.83",
+    "pictureUrl": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/product_box_art/s3/2018/06/05/b0d8ebfb/Uncharted_%20The%20Nathan%20Drake%20Collection.jpg",
+    "category": "Acción",
+    "stock": 25
+  }, {
+    "id": "9",
+    "title": "Convallaria",
+    "description": "Buscaras sus pasos en somnium, llamando su nombre en el mar hasta que se hunde el eco. Nuestro tiempo vuela hacia el cielo, junto con el tren, y su sonrisa a mi lado. El reloj del destino hace tictac, la luz de la rueda de la fortuna parpadea. Mis pensamientos están tallados en la noche, junto a las estrellas y tu vista trasera.",
+    "price": "$67.00",
+    "pictureUrl": "https://www.gematsu.com/wp-content/uploads/2022/10/Game-Page-Box-Art_Convallaria-Initis-320x480.jpg",
+    "category": "Arcades",
+    "stock": 25
+  }, {
+    "id": "10",
+    "title": "Aliens: Dark Descent",
+    "description": "En Aliens: Dark Descent, dirigirás un escuadrón de endurecidos marines coloniales para detener un terrorífico brote de xenomorfos en la Luna Lethe. Lidera a tus soldados en combates en tiempo real contra los icónicos xenomorfos, los agentes rebeldes de la insaciable Corporación Weyland-Yutani y toda una nueva serie de horrendas criaturas en la franquicia Alien.",
+    "price": "$114.73",
+    "pictureUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2213/a8a66744516a3d183aa0b6984190b9041ad337f697f9cfd1.jpg",
+    "category": "Arcades",
+    "stock": 25
+  }, {
+    "id": "11",
+    "title": "Space Gladiators",
+    "description": "¿Has soñado alguna vez con ser una patata del espacio? Space Gladiators es un juego de plataformas 2D al estilo roguelite que sigue a un grupo de prisioneros que luchan para escapar de un planeta-prisión. ¡Derrota hordas de alienígenas en las arenas de gladiadores y gánate la libertad!",
+    "price": "$75.28",
+    "pictureUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2612/BF2WEKyPNSnqdYOGHa3ug19x.png",
+    "category": "Arcades",
+    "stock": 25
+  }, {
+    "id": "12",
+    "title": "Zool Redimensioned",
+    "description": "¡El ninja de la dimensión N regresó! Explora paisajes retro hermosos, descubre secretos ocultos y elimina a jefes peligrosos en una versión moderna de Zool, el clásico de acción y plataformas.",
+    "price": "$59.65",
+    "pictureUrl": "https://s01.riotpixels.net/data/93/95/93956db8-aa77-4f7e-a9bc-290fe3af08b8.jpg/cover.zool-redimensioned.1081x1920.2021-08-04.2.jpg",
+    "category": "Arcades",
+    "stock": 25
+  }, {
+    "id": "13",
+    "title": "God of War: Ragnarok",
+    "description": "God of War: Ragnarok para PlayStation 5 es la secuela de God of War, el reinicio y a la vez secuela de los anteriores God of War para consolas PlayStation. Desarrollado por el prestigioso estudio Sony Santa Monica y con la dirección de Cory Barlog, encontraremos una nueva historia en la que Kratos deberá enfrentarse a diversos enemigos de inspiración nórdica. Explorando los mitos del Ragnarok, el apocalipsis que todo lo devorará según esta tradición del norte, la secuela se espera que llegue en 2021.",
+    "price": "$74.86",
+    "pictureUrl": "https://as01.epimg.net/meristation/imagenes/2021/09/10/game_cover/583001791631283611.jpg",
+    "category": "Aventura",
+    "stock": 25
+  }, {
+    "id": "14",
+    "title": "Resident Evil 2 Remake",
+    "description": "Resident Evil 2 Remake es la puesta al día del clásico original del género survival horror para Xbox One, PlayStation 4 y PC, que coincide con el vigésimo aniversario de la saga Resident Evil. Supone un cambio de perspectiva jugable, de estilo de juego y de ambientación, un concepto muy ambicioso desde el plano técnico y artístico pero que mantendrá la esencia del emblemático videojuego que marcó un antes y un después.",
+    "price": "$100.78",
+    "pictureUrl": "https://sm.ign.com/ign_es/game/r/resident-e/resident-evil-2-remake_zq54.png",
+    "category": "Aventura",
+    "stock": 25
+  }, {
+    "id": "15",
+    "title": "Spider-Man",
+    "description": "Spider-Man para PS4 es un videojuego de acción y aventuras con un estilo jugable de mundo abierto, que permite al jugador desplazarse de un lugar a otro con total libertad de movimientos y que tiene por escenario donde de desarrolla la historia, la ciudad de Nueva York. El juego está desarrollado por Imsomniac Games, creadores de juegos como Spyro, Ratchet & Clank o Sunset Overdrive, entre otros y además está producido por Sony como videojuego exclusivo de PlayStation 4.",
+    "price": "$88.58",
+    "pictureUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png",
+    "category": "Aventura",
+    "stock": 25
+  }, {
+    "id": "16",
+    "title": "Death Stranding",
+    "description": "Death Stranding es un título de acción, aventura y exploración en mundo abierto de ambientación postapocalíptica. Se trata del nuevo videojuego de Hideo Kojima, padre de Metal Gear y Snatcher, una enigmática obra que se define como el primer juego de su género, ya que incluye una serie de mecánicas, detalles y aspectos que lo alejan de otros videojuegos similares.",
+    "price": "$66.22",
+    "pictureUrl": "https://gaminguardian.com/wp-content/uploads/2020/07/Death-Stranding-PC-Cover.jpg",
+    "category": "Aventura",
+    "stock": 25
+  }]
