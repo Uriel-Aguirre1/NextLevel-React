@@ -1,8 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -11,3 +9,374 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+header{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  background-color: rgb(138, 157, 209);
+  
+  
+}
+.logoImg{
+  margin-top: 1%;
+  margin-bottom: 0%;
+  margin-right: 0%;
+}
+
+header nav{
+  padding-top: 3%;
+}
+
+header h1{
+  text-transform: uppercase;
+}
+
+header ul{
+  display: inline;
+  list-style-type: none;
+  padding-top: 1%;
+  
+}
+
+header ul li{
+  display: inline;
+  padding-top: 1%;
+}
+
+header ul li a{
+  text-decoration: none;
+  border: solid;
+  border-color: rgb(138, 157, 209);;
+  border-radius: 50px;
+  background-color: rgb(138, 157, 209);;
+  color: white;
+  padding: 0.3em;
+}
+
+header ul li a:hover{
+  font-size: 100px;
+  letter-spacing:-2px;
+  color: #fff;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00de, 0 0 25px #ff00de;
+  -webkit-text-fill-color: #F4ECFF;
+  -webkit-text-stroke-color:#C546F7;
+  -webkit-text-stroke-width:0.2px; 
+}
+
+header ul li a:active{
+  padding: 0.2em;
+  font-size: 100px;
+  letter-spacing:-2px;
+  color: #fff;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00de, 0 0 25px #ff00de;
+  -webkit-text-fill-color: #F4ECFF;
+  -webkit-text-stroke-color:#C546F7;
+  -webkit-text-stroke-width:0.2px; 
+}
+
+.title{
+  padding-top: 1%;
+  margin-bottom: -1%;
+  color: white;
+}
+
+a {
+color: black;
+padding: 0 1rem;
+text-decoration: none;
+padding-top:12px;
+}
+
+.carritoContainer{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 25px;
+}
+.carritoButton{
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.carritoButton button{
+  padding-top: 2px;
+  height: auto;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #2c0b8e;
+  background: #2c0b8e;
+}
+.carritoButton button:hover {
+  background: #fff;
+  color: #2c0b8e
+}
+.containerButton button{
+  padding-top: 2px;
+  height: auto;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #2c0b8e;
+  background: #2c0b8e;
+}
+.containerButton button:hover {
+  background: #fff;
+  color: #2c0b8e
+}
+.containerButton input{
+  width: 15px;
+  padding-top: 2px;
+  height: auto;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #2c0b8e;
+  background: #2c0b8e;
+}
+
+.agregarAlCarritoButton{
+  padding-top: 2px;
+  height: auto;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #2c0b8e;
+  background: #2c0b8e;
+
+}
+.agregarAlCarritoButton:hover{
+  background: #fff;
+  color: #2c0b8e
+}
+
+.containerButton{
+  padding-top: 2px;
+  height: auto;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #2c0b8e;
+  background: #2c0b8e;
+}
+
+a.active {
+  color: black;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00de, 0 0 25px #ff00de;
+  -webkit-text-fill-color: #F4ECFF;
+  -webkit-text-stroke-color:#C546F7;
+  -webkit-text-stroke-width:0.2px; 
+}
+
+
+.cajaCarrito a{
+  text-decoration: none;
+ }
+ 
+ .carritoContador{
+  color: white;
+ }
+ 
+ .cajaCarrito{
+     background-color: rgb(138, 157, 209);
+     margin-top: 3%;
+     margin-right: 1%;
+ }
+ .greeting{
+  text-align: center;
+  color: white;
+}
+
+
+.cartProduct{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;  
+}
+
+
+.itemContainer{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+border: 8px outset #000000;
+border-radius: 65px 0px 65px 10px;
+
+}
+
+.productos{
+  text-align: center;
+  color: rgb(2, 2, 2);
+}
+
+.itemCaja{
+width: 15rem;
+height: 20rem;
+margin: 20px;
+padding: 100px 60px;
+border: 5px outset #000000;
+border-radius: 65px 0px 65px 10px;
+background-color: rgb(138, 157, 209);
+padding-top: 25px;
+height: 300px;
+padding-bottom: 190px;
+padding-left: 27px;
+
+}
+
+.itemCaja h3{
+  margin: 0;
+  text-align: center;
+  color: white;
+  padding-left: 10px;
+}
+
+.itemCaja p{
+  text-align: center;
+  color: white;
+  padding-left: 20px;
+}
+
+.buttomCaja{
+  align-content: center;
+  color: blue;
+  padding-left: 50px;
+  
+}
+
+.buttomCaja button {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #2c0b8e;
+  background: #2c0b8e;
+}
+.buttomCaja button:hover {
+  background: #fff;
+  color: #2c0b8e
+}
+.eliminarItem{
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #2c0b8e;
+  background: #2c0b8e;
+}
+.eliminarItem:hover{
+  background: #fff;
+  color: #2c0b8e
+}
+.counterP{
+margin-left: 8%;
+}
+
+.cajaPadreFotoEinfo{
+  display: flex;
+  justify-content: space-around;
+}
+.cajaFoto img{
+  width: 20%;
+  height: 250%;
+  padding: 5%;
+}
+.cajaInfo{
+  padding: 3%;
+}
+.categories{
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+}
+
+.cartTable{
+background-color: rgb(138, 157, 209);
+border: 5px outset #000000;
+border-radius: 65px 0px 65px 10px;
+}
+
+.cartCheckout{
+background-color: rgb(138, 157, 209);
+border: 5px outset #000000;
+border-radius: 65px 0px 65px 10px;
+width: 57%;
+}
+
+.submitButton{
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #2c0b8e;
+  background: #2c0b8e;
+}
+.submitButton:hover{
+  background: #fff;
+  color: #2c0b8e
+}
+th{
+  
+  border-left-width: 25px;
+  border-right-width: 25px;
+
+}
+
+td{
+ padding-left: 20px;
+}
+
+.containerLabel{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.submitButtonContainer{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+

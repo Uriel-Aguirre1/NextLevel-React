@@ -1,11 +1,17 @@
 import {ItemCount} from "../components/ItemCount"
-import './ItenListContainer.css';
+import { CartContext } from "../context/cartContext";
+import { useContext } from "react"
 
-export const ItemDetail = ({ product, onAdd}) => {
-	return (
+export const ItemDetail = ({ product }) => {
+
+const { addItem } = useContext(CartContext)
+
+const onAdd = quantity => addItem(product, quantity)
+ 
+ return (
     <div className="cajaPadreFotoEinfo">
 		<div className="cajaFoto">
-		<img src={product?.pictureUrl} alt={product?.title} style={{width:"65%"}}/>
+		<img src={product?.pictureUrl} alt={product?.title} style={{ width: "30rem", height: "30rem" }}/>
 		</div>
 		
 		<div className="cajaInfo" style={{width:"50%"}}>
@@ -14,8 +20,8 @@ export const ItemDetail = ({ product, onAdd}) => {
 			
 			
 		</h1>
-		<h2>{product?.price}</h2>
-		<h3>{product?.category}</h3>
+		<h2>${product?.price}</h2>
+		<h3>Categoria: {product?.category}</h3>
 		
 		<p>{product?.description}</p>
 		<ItemCount stock={product?.stock} onAdd={onAdd}/>
@@ -23,6 +29,5 @@ export const ItemDetail = ({ product, onAdd}) => {
 		
 	</div>
 	)
-	
-	}
+}
 	

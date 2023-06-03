@@ -1,16 +1,20 @@
 import React from 'react'
 import { Item } from './Item'
-import './ItenListContainer.css';
 
 
-export const ItemList = ({ list }) => {
- return(
-	<div className='itemContainer'>
-        {!list.length && "Loading"}
-		{list.map(item => (
-			<Item item={item}/>
-		))}
-	</div>
-
- ) 
+export const ItemList = ({ items }) =>{
+	return(
+		<div className='cartProduct'> 
+			{
+               !items.length ? (
+	               <span>Loading</span>
+                ) : (
+	                items.map(item => <Item key={item.id} item={item} />)
+                )
+			}
+        </div>
+		
+	)
 }
+	
+

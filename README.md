@@ -1,3 +1,21 @@
+# NEXT LEVEL
+Ecommerce de Video Juegos Para PlayStation
+## IDEA
+Esta idea de hacer un ecommerce es sobre la venta de video juegos para PlayStation 4/5, viene de mi pasion por los video juegos desde que tengo almenos 7 años, cuando en una navidad llego la ps2 que al principio era mas para mi padre que para mi(jaja), gracias a eso decidi hacer esta idea ecommerce la cual refleja un catalogo de productos, con sus detalles y un carrito de compras funcionando.
+
+## INTEGRACIONES
+En el proyecto utilize código en HTML, CSS, Javascript, en Reactjs, dandole vida a la pagina con FireBase para las interacciones de datos en la Database.
+
+## CARACTERÍSTICAS
+Visualización de catálogo completo desde el Home.
+Búsqueda de productos por categoría.
+Visualización detallada de los ítems.
+Agregar productos al carrito de compras.
+Eliminar productos del carrito de compras de forma individual.
+Generación de orden de compra.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
